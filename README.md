@@ -16,7 +16,9 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-TWRoloff.vercel.app/api/spotify-playing" alt="TWRoloff Spotify Playing" width="350" />](https://open.spotify.com/user/1143994606)
+
 ---
+
 ### Connect with me:
 
 [<img align="left" alt="TWRoloff.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
