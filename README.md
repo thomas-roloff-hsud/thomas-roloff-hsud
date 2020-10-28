@@ -1,19 +1,22 @@
 ### Hi there, I'm Thomas  👋
 
-
+---
 
 ## I'm a  Developer and DevOps Engineer, Continuous Lifecycle Enthusiast!!
 
+---
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Japan! 
 
+---
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-TWRoloff.vercel.app/api/spotify-playing" alt="TWRoloff Spotify Playing" width="350" />](https://open.spotify.com/user/1143994606)
-
+---
 ### Connect with me:
 
 [<img align="left" alt="TWRoloff.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -23,6 +26,8 @@
 [<img align="left" alt="TWRoloff | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
