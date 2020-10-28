@@ -97,12 +97,10 @@
 </details>
 
 [website]: https://thomasroloff.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/TWRoloff
+[twitter]: https://twitter.com/ThomasWRoloff
 [youtube]: https://youtube.com/TWRoloff
 [instagram]: https://instagram.com/TWRoloff
-[linkedin]: https://linkedin.com/in/TWRoloff
-: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[xing]: https://www.xing.com/profile/Thomas_Roloff8/cv
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
