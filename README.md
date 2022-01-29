@@ -24,7 +24,7 @@
     src="https://github-readme-stats.vercel.app/api?username=twroloff&show_icons=true&theme=radical"
     alt="thomaswroloff" 
     bg_color=#808080/></p>
-
+<br />
 <p>
 <h2>### Connect with me:</h2>
 
@@ -33,6 +33,15 @@
 [<img align="left" alt="TWRoloff | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TWRoloff | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][xing]
 [<img align="left" alt="TWRoloff | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://thomasroloff.com
+[twitter]: https://twitter.com/ThomasWRoloff
+[youtube]: https://youtube.com/TWRoloff
+[instagram]: https://instagram.com/TWRoloff
+[xing]: https://www.xing.com/profile/Thomas_Roloff8/cv
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 </p>
 <br />
 
@@ -79,12 +88,4 @@
 
 </details>
 
-[website]: https://thomasroloff.com
-[twitter]: https://twitter.com/ThomasWRoloff
-[youtube]: https://youtube.com/TWRoloff
-[instagram]: https://instagram.com/TWRoloff
-[xing]: https://www.xing.com/profile/Thomas_Roloff8/cv
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
