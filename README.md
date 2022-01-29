@@ -5,13 +5,15 @@
 ## I'm a  Developer and DevOps Engineer, Continuous Lifecycle Enthusiast!!
 
 ---
-<p align="right">
-- 🌱 I’m currently learning everything 🤣<br>
-- 👯 I’m looking to collaborate with other content creators<br>
-- 🥅 2020 Goals: Contribute more to Open Source projects<br>
-- ⚡ Fun fact: I love Japan! <br>
-</p>
+<br>
 <p align="right"><img src="https://github.com/TWRoloff/TWRoloff/blob/master/animation_500_kxa883sd.gif?raw=truef" alt="twroloff" width="200px" height="240px"/></p>
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love Japan! 
+
+<br>
 ---
 <h3> Statistical Data :</h3>
 <p><img align="center"
