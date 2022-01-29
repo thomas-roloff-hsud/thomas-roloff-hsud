@@ -21,7 +21,7 @@
     bg_color=#808080/></p>
 ---
 <p><img align="left"
-    src=https://github-readme-stats.vercel.app/api?username=twroloff&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=twroloff&show_icons=true&theme=radical"
     alt="thomaswroloff" 
     bg_color=#808080/></p>
     
