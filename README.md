@@ -66,7 +66,7 @@
 <br />
 
 ---
-<p>
+<p align="right">
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -80,12 +80,3 @@
 
 </details>
 </p>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="TWRoloff's GitHub Stats" src="https://github-readme-stats.TWRoloff.vercel.app/api?username=TWRoloff&show_icons=true&hide_border=true" />
-
-</details>
-
-
