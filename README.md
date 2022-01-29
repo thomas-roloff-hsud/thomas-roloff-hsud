@@ -14,7 +14,7 @@
 ---
 <p><img align="right" src="https://github.com/TWRoloff/TWRoloff/blob/master/animation_500_kxa883sd.gif?raw=truef" alt="adam-pw" /></p>
 
-<h3>### Statistical Data :</h3>
+<h3> Statistical Data :</h3>
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=twroloff&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="thomaswroloff" 
@@ -78,7 +78,7 @@
   <img align="left" alt="TWRoloff's GitHub Stats" src="https://github-readme-stats.TWRoloff.vercel.app/api?username=TWRoloff&show_icons=true&hide_border=true" />
 
 </details>
-<p align=left>
+
 [website]: https://thomasroloff.com
 [twitter]: https://twitter.com/ThomasWRoloff
 [youtube]: https://youtube.com/TWRoloff
@@ -87,4 +87,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-</p>
+
