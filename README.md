@@ -15,12 +15,12 @@
 <p><img align="right" src="https://github.com/TWRoloff/TWRoloff/blob/master/animation_500_kxa883sd.gif?raw=truef" alt="adam-pw" /></p>
 
 <h3>Statistical Data :</h3>
-<p><img align="center"
+<p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=twroloff&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="thomaswroloff" 
     bg_color=#808080/></p>
 ---
-<p><img align="center"
+<p><img align="left"
     src=https://github-readme-stats.vercel.app/api?username=twroloff&show_icons=true&theme=radical"
     alt="thomaswroloff" 
     bg_color=#808080/></p>
