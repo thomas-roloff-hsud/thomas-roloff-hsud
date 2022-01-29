@@ -7,6 +7,7 @@
 ---
 <br>
 <p><img align="right" src="https://github.com/TWRoloff/TWRoloff/blob/master/animation_500_kxa883sd.gif?raw=truef" alt="twroloff" width="200px" height="240px"/></p>
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
