@@ -20,8 +20,10 @@
     alt="thomaswroloff" 
     bg_color=#808080/></p>
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twroloff&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twroloff)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center"
+    src=https://github-readme-stats.vercel.app/api?username=twroloff&show_icons=true&theme=radical"
+    alt="thomaswroloff" 
+    bg_color=#808080/></p>
 ### Connect with me:
 
 [<img align="left" alt="TWRoloff.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
