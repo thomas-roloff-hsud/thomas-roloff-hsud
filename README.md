@@ -24,7 +24,7 @@
     alt="thomaswroloff" 
     bg_color=#808080/></p>
 <br>
-<p>
+<p align="left"> 
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="TWRoloff.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -45,7 +45,7 @@
 <br>
 
 
-<p>
+<p align="left">
    <h2> Languages and Tools:</h2>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
