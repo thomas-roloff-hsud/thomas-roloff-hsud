@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love Japan! 
 
 ---
-<p align="right"><img src="https://github.com/TWRoloff/TWRoloff/blob/master/animation_500_kxa883sd.gif?raw=truef" alt="twroloff" /></p>
+<p align="right"><img src="https://github.com/TWRoloff/TWRoloff/blob/master/animation_500_kxa883sd.gif?raw=truef" alt="twroloff" width="100px" height="120px"/></p>
 <h3> Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=twroloff&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
