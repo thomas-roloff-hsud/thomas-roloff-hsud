@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love Japan! 
 
 ---
-
+<p><img align="right" src="https://github.com/TWRoloff/TWRoloff/blob/master/animation_500_kxa883sd.gif?raw=truef" alt="adam-pw" /></p>
 ### Spotify Playing 🎧
 
 [<iframe src="https://open.spotify.com/embed/track/29pfssIupDvkIjVsb6RslD?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>]
