@@ -24,6 +24,7 @@
     src=https://github-readme-stats.vercel.app/api?username=twroloff&show_icons=true&theme=radical"
     alt="thomaswroloff" 
     bg_color=#808080/></p>
+    
 ### Connect with me:
 
 [<img align="left" alt="TWRoloff.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
