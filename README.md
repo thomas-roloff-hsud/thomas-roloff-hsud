@@ -15,8 +15,12 @@
 <p><img align="right" src="https://github.com/TWRoloff/TWRoloff/blob/master/animation_500_kxa883sd.gif?raw=truef" alt="adam-pw" /></p>
 ### Spotify Playing 🎧
 
-[<iframe src="https://open.spotify.com/embed/track/29pfssIupDvkIjVsb6RslD?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>]
-
+<iframe src="https://open.spotify.com/embed/track/29pfssIupDvkIjVsb6RslD?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaswroloff&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="thomaswroloff" 
+    bg_color=#808080/></p>
 ---
 
 ### Connect with me:
