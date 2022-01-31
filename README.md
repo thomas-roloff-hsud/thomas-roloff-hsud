@@ -6,7 +6,7 @@
 
 ---
 <br>
-<p><img align="right" src="https://github.com/TWRoloff/TWRoloff/blob/master/animation_500_kxa883sd.gif?raw=truef" alt="twroloff" width="200px" height="240px"/></p>
+<p><img align="right" src="https://github.com/thomas-roloff-hsud/thomas-roloff-hsud/blob/master/animation_500_kxa883sd.gif?raw=truef" alt="twroloff" width="200px" height="240px"/></p>
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
